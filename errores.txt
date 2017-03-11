@@ -1,0 +1,220 @@
+Comienzo errores
+valor de la pos 1 es 0
+execute0
+valor de la pos 1 es 0
+valor de la pos 2 es 1
+execute1
+valor de la pos 2 es 1
+valor de la pos 2 es 1
+execute1
+valor de la pos 2 es 1
+valor de la pos 2 es 2
+execute2
+valor de la pos 2 es 2
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 1
+execute1
+valor de la pos 1 es 1
+valor de la pos 2 es 2
+execute2
+valor de la pos 2 es 2
+valor de la pos 2 es 2
+execute2
+valor de la pos 2 es 2
+valor de la pos 2 es 3
+execute3
+valor de la pos 2 es 3
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 3
+execute3
+valor de la pos 1 es 3
+valor de la pos 2 es 3
+execute3
+valor de la pos 2 es 3
+valor de la pos 2 es 3
+execute3
+valor de la pos 2 es 3
+valor de la pos 2 es 4
+execute4
+valor de la pos 2 es 4
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 6
+execute6
+valor de la pos 1 es 6
+valor de la pos 2 es 4
+execute4
+valor de la pos 2 es 4
+valor de la pos 2 es 4
+execute4
+valor de la pos 2 es 4
+valor de la pos 2 es 5
+execute5
+valor de la pos 2 es 5
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 10
+execute10
+valor de la pos 1 es 10
+valor de la pos 2 es 5
+execute5
+valor de la pos 2 es 5
+valor de la pos 2 es 5
+execute5
+valor de la pos 2 es 5
+valor de la pos 2 es 6
+execute6
+valor de la pos 2 es 6
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 15
+execute15
+valor de la pos 1 es 15
+valor de la pos 2 es 6
+execute6
+valor de la pos 2 es 6
+valor de la pos 2 es 6
+execute6
+valor de la pos 2 es 6
+valor de la pos 2 es 7
+execute7
+valor de la pos 2 es 7
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 21
+execute21
+valor de la pos 1 es 21
+valor de la pos 2 es 7
+execute7
+valor de la pos 2 es 7
+valor de la pos 2 es 7
+execute7
+valor de la pos 2 es 7
+valor de la pos 2 es 8
+execute8
+valor de la pos 2 es 8
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 28
+execute28
+valor de la pos 1 es 28
+valor de la pos 1 es 0
+execute0
+valor de la pos 1 es 0
+valor de la pos 2 es 1
+execute1
+valor de la pos 2 es 1
+valor de la pos 2 es 1
+execute1
+valor de la pos 2 es 1
+valor de la pos 2 es 2
+execute2
+valor de la pos 2 es 2
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 1
+execute1
+valor de la pos 1 es 1
+valor de la pos 2 es 2
+execute2
+valor de la pos 2 es 2
+valor de la pos 2 es 2
+execute2
+valor de la pos 2 es 2
+valor de la pos 2 es 3
+execute3
+valor de la pos 2 es 3
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 3
+execute3
+valor de la pos 1 es 3
+valor de la pos 2 es 3
+execute3
+valor de la pos 2 es 3
+valor de la pos 2 es 3
+execute3
+valor de la pos 2 es 3
+valor de la pos 2 es 4
+execute4
+valor de la pos 2 es 4
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 6
+execute6
+valor de la pos 1 es 6
+valor de la pos 2 es 4
+execute4
+valor de la pos 2 es 4
+valor de la pos 2 es 4
+execute4
+valor de la pos 2 es 4
+valor de la pos 2 es 5
+execute5
+valor de la pos 2 es 5
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 10
+execute10
+valor de la pos 1 es 10
+valor de la pos 2 es 5
+execute5
+valor de la pos 2 es 5
+valor de la pos 2 es 5
+execute5
+valor de la pos 2 es 5
+valor de la pos 2 es 6
+execute6
+valor de la pos 2 es 6
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 15
+execute15
+valor de la pos 1 es 15
+valor de la pos 2 es 6
+execute6
+valor de la pos 2 es 6
+valor de la pos 2 es 6
+execute6
+valor de la pos 2 es 6
+valor de la pos 2 es 7
+execute7
+valor de la pos 2 es 7
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 21
+execute21
+valor de la pos 1 es 21
+valor de la pos 2 es 7
+execute7
+valor de la pos 2 es 7
+valor de la pos 2 es 7
+execute7
+valor de la pos 2 es 7
+valor de la pos 2 es 8
+execute8
+valor de la pos 2 es 8
+valor de la pos 0 es 8
+execute8
+valor de la pos 0 es 8
+valor de la pos 1 es 28
+execute28
+valor de la pos 1 es 28
+Exception in thread "main" java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Unknown Source)
+	at Main.Engine.start(Engine.java:37)
